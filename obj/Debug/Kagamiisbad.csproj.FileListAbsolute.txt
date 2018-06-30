@@ -1,0 +1,10 @@
+C:\Users\Gambi\source\repos\Kagamiisbad\bin\Debug\Kagamiisbad.exe.config
+C:\Users\Gambi\source\repos\Kagamiisbad\bin\Debug\Kagamiisbad.exe
+C:\Users\Gambi\source\repos\Kagamiisbad\bin\Debug\Kagamiisbad.pdb
+C:\Users\Gambi\source\repos\Kagamiisbad\obj\Debug\Kagamiisbad.csprojResolveAssemblyReference.cache
+C:\Users\Gambi\source\repos\Kagamiisbad\obj\Debug\Kagamiisbad.Form1.resources
+C:\Users\Gambi\source\repos\Kagamiisbad\obj\Debug\Kagamiisbad.Properties.Resources.resources
+C:\Users\Gambi\source\repos\Kagamiisbad\obj\Debug\Kagamiisbad.csproj.GenerateResource.Cache
+C:\Users\Gambi\source\repos\Kagamiisbad\obj\Debug\Kagamiisbad.csproj.CoreCompileInputs.cache
+C:\Users\Gambi\source\repos\Kagamiisbad\obj\Debug\Kagamiisbad.exe
+C:\Users\Gambi\source\repos\Kagamiisbad\obj\Debug\Kagamiisbad.pdb
