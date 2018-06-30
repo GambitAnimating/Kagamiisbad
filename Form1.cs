@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -26,6 +26,7 @@ namespace Kagamiisbad
             }
 
             InitializeComponent();
+            openFileDialog1.Filter = "Image files|*.bmp;*.jpg;*.gif;*.png;*.tif";
         }
 
         private void button1_Click(object sender, EventArgs e)
